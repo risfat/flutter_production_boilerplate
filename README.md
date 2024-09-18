@@ -138,8 +138,8 @@ following code:
 
 #### Dark Theme
 
-| Home Dark German                                                            | Info Dark German                                                            |
-|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| Home Dark German                                                            | Info Dark                                                            |
+|-----------------------------------------------------------------------------|----------------------------------------------------------------------------|
 | ![Home Dark](./assets/img/home_dark.png "The home page with a dark theme.") | ![Info Dark](./assets/img/info_dark.png "The info page with a dark theme.") |
 
 ## License
