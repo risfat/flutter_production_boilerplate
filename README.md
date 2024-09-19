@@ -1,4 +1,4 @@
-# Flutter Production Boilerplate
+# Flutter Production Boilerplate (Bloc)
 
 *Note: If you prefer to use Riverpod instead of BLOC you can use [flutter_production_boilerplate_riverpod](https://github.com/risfat/flutter_production_boilerplate_riverpod)*
 
